@@ -2,7 +2,7 @@
 A individual project for data visualization and narration class at HSLU.
 
 ## Summary of the project:
-1. Use case: interactive infographic on a newspaper
+1. Use case: interactive infographic on an e-newspaper website
 2. Target group: Young students from 20 to 20 years old
 3. Topic: World Happiness Report
 4. Procedure: Making 3 iterations of design: handdrawing, non-interactive & interactive visualiazation
