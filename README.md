@@ -7,6 +7,7 @@ A individual project for data visualization and narration class at HSLU.
 3. Topic: World Happiness Report
 4. Procedure: Making 3 iterations of design: handdrawing, non-interactive & interactive visualiazation
 5. Data source: main source https://worldhappiness.report/ & various other sources 
+6. Tool: Tableau, R & several design softwares
 
 ## An overview of my final work for the interactive infographic:
 
